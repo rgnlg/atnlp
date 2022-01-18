@@ -41,14 +41,14 @@ Lake, B.M., & Baroni, M. (2018). Generalization without Systematicity: On the Co
   }
   ```
 where:
-  - "experiment" - experiment to be executed;
-  - "train_file_path" - path to the training data;
-  - "test_file_path" - path to the test data;
-  - "is_train" - training process;
-  - "is_over_all_best" - model to be executed (the overall best model or the best model for a particular experiment);
-  - "prim" - exposion of primitive commands only denoting a certain basic action.
+    - "experiment" - experiment to be executed;
+    - "train_file_path" - path to the training data;
+    - "test_file_path" - path to the test data;
+    - "is_train" - training process;
+    - "is_over_all_best" - model to be executed (the overall best model or the best model for a particular experiment);
+    - "prim" - exposion of primitive commands only denoting a certain basic action.
   
-  - Experiments can be executed using ./run.sh (Note: the shell-file might be configured as "executable" to be able to run it, using chmod +x run.sh)
+ - Experiments can be executed using ./run.sh (Note: the shell-file might be configured as "executable" to be able to run it, using chmod +x run.sh)
 
 ### Structure
 - `dataloader.py` - loading data files;

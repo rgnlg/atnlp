@@ -1,6 +1,6 @@
 # Advanced Topics in Natural Language Processing (ATNLP)
 
-The project is done by Duo Yang, Olga Iarygina, and Philine Zeinert as a part of the course Advanced Topics in Natural Language Processing at the University of Copenhagen
+The project is done by Duo Yang, Olga Iarygina, and Philine Zeinert as a part of the course Advanced Topics in Natural Language Processing at the University of Copenhagen <br />
 Dec 2021 - Jan 2022
 
 ### Paper

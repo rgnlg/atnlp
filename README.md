@@ -40,7 +40,7 @@ Lake, B.M., & Baroni, M. (2018). Generalization without Systematicity: On the Co
     "prim": false
   }
   ```
-where:
+- where:
     - "experiment" - experiment to be executed;
     - "train_file_path" - path to the training data;
     - "test_file_path" - path to the test data;

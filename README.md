@@ -1,6 +1,6 @@
 # Advanced Topics in Natural Language Processing (ATNLP)
 
-The project is done by Duo Yang, Olga Iarygina, and Philine Zeinert as a part of the course Advanced Topics in Natural Language Processing at the University of Copenhagen <br />
+The project is done by Duo Yang, Olga Iarygina, and Philine Zeinert (Group 6) as a part of the course Advanced Topics in Natural Language Processing at the University of Copenhagen <br />
 Dec 2021 - Jan 2022
 
 ### Paper
@@ -16,7 +16,6 @@ Lake, B.M., & Baroni, M. (2018). Generalization without Systematicity: On the Co
 - numpy
 - random
 - torch
-- __future__
 - io
 - os
 - unicodedata
@@ -46,9 +45,9 @@ Lake, B.M., & Baroni, M. (2018). Generalization without Systematicity: On the Co
     - "test_file_path" - path to the test data;
     - "is_train" - training process;
     - "is_over_all_best" - model to be executed (the overall best model or the best model for a particular experiment);
-    - "prim" - exposion of primitive commands only denoting a certain basic action.
+    - "prim" - exposion of primitive commands only denoting a certain basic action
   
- - Experiments can be executed using ./run.sh (Note: the shell-file might be configured as "executable" to be able to run it, using chmod +x run.sh)
+ - Experiments can be executed using ./run.sh (Note: the shell-file might need to be configured as "executable" to be able to run it, using chmod +x run.sh)
 
 ### Structure
 - `dataloader.py` - loading data files;
@@ -57,6 +56,4 @@ Lake, B.M., & Baroni, M. (2018). Generalization without Systematicity: On the Co
 - `evaluate.py` - evaluation;
 - `main.py` - execution of the experiments;
 - `configurations.json` - experiments' configurations;
-- `run.sh` - shell file to execurte experiments.
-
-
+- `run.sh` - shell file to execurte experiments

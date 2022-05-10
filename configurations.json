@@ -1,0 +1,8 @@
+{
+  "experiment": "3",
+  "train_file_path":"SCAN/add_prim_split/tasks_train_addprim_turn_left.txt",
+  "test_file_path": "SCAN/add_prim_split/tasks_test_addprim_turn_left.txt",
+  "is_train": true,
+  "is_over_all_best": false,
+  "prim": "turn_left"
+}
